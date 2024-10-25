@@ -9,3 +9,4 @@ Since the raw data is label with (0 - 3) for daytime class, and (4 - 7) for nigh
 3 - truck and container,... etc
 
 I have use data augmentation for the dataset and balacing the data because the original data is not good(unbalance) yet
+Cause the data is big and i cant upload but i can understand it would be separate to be appropriate with the yolo model
